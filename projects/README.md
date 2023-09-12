@@ -17,3 +17,11 @@ Status Key: ⚪️ Planned | 🟢 In Progress | 🟡 At Risk | 🔴 Blocked | �
     - With a project folder, I store artefacts free form
 - Each project should have an announcement
     - Hard mode: Project announcements should be written before the project begins.
+
+## Pipeline
+
+```
+┌─────────┐     ┌──────────┐     ┌────────────────────┐
+│ meeting │ ··> │ projects │ ──> │ performance-review │
+└─────────┘     └──────────┘     └────────────────────┘
+```

@@ -13,3 +13,17 @@ Subsequent meetings on this title should be tacked on to the same file.
 - Agenda
 - Discussion
 - Actions
+
+## Pipeline
+
+```
+┌──────────┐     ┌─────────┐
+│ meeting  │ ··> │ journal │
+└──────────┘     └─────────┘
+  :
+  :
+  ∨
+┌──────────┐
+│ projects │
+└──────────┘
+```
